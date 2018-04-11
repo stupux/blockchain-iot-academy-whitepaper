@@ -1,0 +1,32 @@
+{
+  "name": "blockchain-iot-academy-whitepaper",
+  "version": "1.0.0",
+  "description": "Visions for a futuristic learning experience",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  },
+  "devDependencies": {
+    "markdown-toc": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupux/blockchain-iot-academy-whitepaper.git"
+  },
+  "keywords": [
+    "iot",
+    "blockchain",
+    "whitepaper",
+    "education",
+    "learning"
+  ],
+  "author": "mvmaestri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupux/blockchain-iot-academy-whitepaper/issues"
+  },
+  "homepage": "https://github.com/stupux/blockchain-iot-academy-whitepaper#readme"
+}
